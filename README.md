@@ -1,7 +1,7 @@
 # Publicações sobre IA & Educação
 
 * Pedro Alves, Bruno Pereira Cipriano, <br>**"Give me the code" -- Log Analysis of First-Year CS Students' Interactions With GPT**, https://arxiv.org/abs/2411.17855
- 
+
 * Bruno Cipriano, Pedro Alves, <br>**"ChatGPT Is Here to Help, Not to Replace Anybody" -- An Evaluation of Students' Opinions On Integrating ChatGPT In CS Courses**, https://arxiv.org/abs/2404.17443
 
 * Bruno Cipriano, Pedro Alves, <br>**LLMs Still Can't Avoid Instanceof: An Investigation Into GPT-3.5, GPT-4 and Bard's Capacity to Handle Object-Oriented Programming Assignments**, in Proceedings of ICSE-SEET '24: 46th International Conference on Software Engineering: Software Engineering Education and Training, Lisbon,. Portugal, Apr. 2024, https://arxiv.org/abs/2403.06254, https://dl.acm.org/doi/10.1145/3639474.3640052
