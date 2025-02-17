@@ -12,6 +12,6 @@
 
 * Cipriano, B. P., & Alves, P. (2024, April). <br>**LLMs Still Can't Avoid Instanceof: An Investigation Into GPT-3.5, GPT-4 and Bard's Capacity to Handle Object-Oriented Programming Assignments**, in Proc. of ICSE-SEET '24: 46th International Conference on Software Engineering: Software Engineering Education and Training, Lisbon,. Portugal, apr. 2024, https://arxiv.org/abs/2403.06254, https://dl.acm.org/doi/10.1145/3639474.3640052
 
-* Cipriano, B. P., & Alves, P. (2023, June). <br> **Gpt-3 vs object oriented programming assignments: An experience report**. In Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1 (pp. 61-67).
+* Cipriano, B. P., & Alves, P. (2023, June). <br> **Gpt-3 vs object oriented programming assignments: An experience report**. In Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1 (pp. 61-67), https://dl.acm.org/doi/10.1145/3587102.3588814
 
 * Cipriano, B. P., & Alves, P. (2023, April). <br>**"The centaur programmer – How Kasparov’s Advanced Chess spans over to the software development of the future**, apr. 2023 https://arxiv.org/pdf/2304.11172
