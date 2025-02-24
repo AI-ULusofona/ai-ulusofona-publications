@@ -1,6 +1,6 @@
 # Publicações sobre IA & Educação
 
-* Cipriano, B. P., Studer, L. (2025, April). <br>**Programmers Aren’t Obsolete Yet: A Syllabus for Teaching CS Students to Responsibly Use Large Language Models for Code Generation**, in Proc. of CSEDU 2025: International Conference on Computer Supported Education. https://arxiv.org/abs/2502.15493
+* Cipriano, B. P., Studer Ferreira, L. (2025, April). <br>**Programmers Aren’t Obsolete Yet: A Syllabus for Teaching CS Students to Responsibly Use Large Language Models for Code Generation**, in Proc. of CSEDU 2025: International Conference on Computer Supported Education. https://arxiv.org/abs/2502.15493
 
 * Alves, P. & Cipriano, B. P., (2024, November). <br>**"Give me the code" -- Log Analysis of First-Year CS Students' Interactions With GPT**, https://arxiv.org/abs/2411.17855
 
